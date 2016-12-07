@@ -12,17 +12,25 @@
     margin-top: 20px;
     margin-left: 49px;
     margin-right: 49px;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left:50px;
+    padding-right: 50px;
 }
 
 #subtitle {
     background: black;
     color: white;
     text-align: center;
-     margin-top: 20px;
+    margin-top: 20px;
     margin-left: 49px;
     margin-right: 49px;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left:50px;
+    padding-right: 50px;
 }
 
 .topic {

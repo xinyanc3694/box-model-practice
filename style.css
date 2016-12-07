@@ -8,10 +8,10 @@
 
 #title {
     background: yellow;
-    text-align: center;
+    margin: auto;
     margin-top: 20px;
-    margin-left: 49px;
-    margin-right: 49px;
+    margin-left: 100px;
+    margin-right: 100px;
     margin-bottom: 20px;
     padding-top:10px;
     padding-bottom: 10px;
@@ -22,11 +22,11 @@
 #subtitle {
     background: black;
     color: white;
-    text-align: center;
+    margin: auto;
     margin-top: 20px;
-    margin-left: 49px;
-    margin-right: 49px;
-    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom:1px;
     padding-top:10px;
     padding-bottom: 10px;
     padding-left:50px;
@@ -36,7 +36,7 @@
 .topic {
     background: lightgray;
     display: inline-block;
-    margin:30px;
+    margin:90px;
     
 }
 

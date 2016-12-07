@@ -8,20 +8,27 @@
 
 #title {
     background: yellow;
-    /*add CSS here*/
-    
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 49px;
+    margin-right: 49px;
+    margin-bottom: 20px
 }
 
 #subtitle {
     background: black;
     color: white;
-    /*add CSS here*/
-    
+    text-align: center;
+     margin-top: 20px;
+    margin-left: 49px;
+    margin-right: 49px;
+    margin-bottom: 20px
 }
 
 .topic {
     background: lightgray;
-    /*add CSS here*/
+    display: inline-block;
+    margin:30px;
     
 }
 
